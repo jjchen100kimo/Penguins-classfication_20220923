@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-import seaborn as sb
+
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
