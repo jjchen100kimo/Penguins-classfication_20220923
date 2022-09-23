@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 
-from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
